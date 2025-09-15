@@ -2,9 +2,9 @@
 
 I'm a passionate **Software Developer** with over **3 years of professional experience** mostly at **U-Fin Sp. z o.o.**, where I design and build modern web applications. My core expertise lies in crafting reliable, user-focused solutions using:
 
-- 🧱 **Blazor** (.NET 8, WebAssembly, Server-side)
-- 🌐 **RESTful APIs** with ASP.NET Core
-- 🧩 **Vue.js** for rich client-side experiences
+- 🧱 **Blazor** (.NET, WebAssembly, Server-side)
+- 🌐 **RESTful APIs** with ASP.NET Core and django
+- 🧩 **Vue.js and Next.js** for rich client-side experiences
 
 ---
 
@@ -15,9 +15,9 @@ I'm a passionate **Software Developer** with over **3 years of professional expe
 
 ## 🔧 Tech Stack & Interests
 
-- 💻 **Languages & Frameworks**: C#, .NET, Blazor, JavaScript, TypeScript, Vue.js
+- 💻 **Languages & Frameworks**: C#, .NET, Blazor, JavaScript, TypeScript, Python
 - 🔗 **Web & API Development**: REST APIs, Entity Framework, ASP.NET Core
-- ☁️ **Other Tools**: Git, Docker, SQL Server, Linux
+- ☁️ **Other Tools**: Git, Docker, SQL Server, Linux, DevExpress
 - 🚀 **Currently Exploring**: Next.js (and loving the power of modern SSR/SSG!)
 
 ---
