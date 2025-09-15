@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Antoni Król
 
-I'm a passionate **Software Developer** with nearly **3 years of professional experience** at **U-Fin Sp. z o.o.**, where I design and build modern web applications. My core expertise lies in crafting reliable, user-focused solutions using:
+I'm a passionate **Software Developer** with over **3 years of professional experience** mostly at **U-Fin Sp. z o.o.**, where I design and build modern web applications. My core expertise lies in crafting reliable, user-focused solutions using:
 
 - 🧱 **Blazor** (.NET 8, WebAssembly, Server-side)
 - 🌐 **RESTful APIs** with ASP.NET Core
